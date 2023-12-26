@@ -1,9 +1,3 @@
-package list;
-/**
- *
- * @author Mark Floryan
- *
- */
 public class ListNode<T> {
 
     /* Data being stored in this node */
