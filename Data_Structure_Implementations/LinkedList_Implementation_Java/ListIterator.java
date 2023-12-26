@@ -7,7 +7,6 @@ public class ListIterator<T> {
 
     /* ListIterator constructor. Accepts the current node. */
     public ListIterator(ListNode<T> currentNode) {
-        /* TODO: Implement this method */
         this.curNode = currentNode;
     }
 
