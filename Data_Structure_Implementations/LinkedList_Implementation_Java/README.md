@@ -8,6 +8,7 @@ This project contains a custom implementation of a LinkedList in Java. The Linke
 - **Generic Implementation**: Can store elements of any type.
 - **Dynamic Operations**: Supports operations like insertion and deletion at both head and tail, as well as at any given index.
 - **Iterator Support**: Custom iterator implementation for traversing the list.
+- **Extensive JUnit Testing**: Includes a comprehensive set of JUnit tests to validate functionality and ensure robustness.
 
 ## Usage
 To use the LinkedList class, include it in your Java project. Here's a basic example:
