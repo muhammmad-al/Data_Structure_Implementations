@@ -1,5 +1,3 @@
-package vector;
-
 public interface List<T> {
 
     /**
