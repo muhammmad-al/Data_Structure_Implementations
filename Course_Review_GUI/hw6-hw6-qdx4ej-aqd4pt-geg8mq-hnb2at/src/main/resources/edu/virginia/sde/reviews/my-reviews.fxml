@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="edu.virginia.sde.reviews.MyReviewsPageController"
+            prefHeight="720.0" prefWidth="1280.0">
+    <VBox spacing="10.0" AnchorPane.topAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="10.0">
+        <!-- Course Information -->
+
+        <!-- Reviews Table -->
+        <Label fx:id="curUserLabel"
+               style="-fx-font-size: 24pt;"
+        />
+        <TableView fx:id="reviewsTable" VBox.vgrow="ALWAYS">
+            <columns>
+                <TableColumn fx:id="ratingColumn" text="Rating" prefWidth="213.0"/>
+                <TableColumn fx:id="courseColumn" text="Class" prefWidth="213.0"/>
+                <TableColumn fx:id="commentColumn" text="Comment" prefWidth="854.0"/>
+            </columns>
+        </TableView>
+
+        <!-- Navigation Buttons -->
+        <HBox spacing="10.0">
+            <Button
+                    mnemonicParsing="false"
+                    fx:id="backButton" text="Back to Course Search"
+                    onAction="#handleBackButtonAction">
+            </Button>
+        </HBox>
+    </VBox>
+</AnchorPane>
