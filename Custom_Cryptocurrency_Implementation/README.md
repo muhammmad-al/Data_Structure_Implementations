@@ -29,3 +29,27 @@ python cryptocurrency.py <command> [arguments]
 - Generate a new wallet:
   ```bash
   python cryptocurrency.py generate my_wallet.txt
+
+- Fund a wallet:
+
+```bash
+python cryptocurrency.py fund <wallet_tag> <amount> <transaction_file>
+```
+
+- Transfer funds between wallets:
+
+```bash
+python cryptocurrency.py transfer <source_wallet_file> <destination_wallet_tag> <amount> <transaction_file>
+```
+
+- Verify a transaction:
+
+```bash
+python cryptocurrency.py verify <wallet_file> <transaction_statement_file>
+```
+
+- Check the balance of a wallet:
+
+```bash
+python cryptocurrency.py balance <wallet_tag>
+```
