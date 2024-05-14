@@ -14,3 +14,7 @@ The project includes the following main functions:
 - **extract_features**: Extract audio features from an audio file.
 - **preprocess_and_predict**: Preprocess audio file and predict its genre.
 - **load_and_evaluate_individual**: Load the trained model and evaluate individual audio files.
+
+## Google Colab Notebook
+
+This project is designed to be run on Google Colab, leveraging the GTZAN dataset for music genre classification. The dataset is loaded from Google Drive, and the entire workflow, including data preprocessing, model training, and evaluation, is implemented in the notebook.
