@@ -1,6 +1,6 @@
 # Music Genre Classification
 
-This project implements a music genre classification system using a neural network. The system is built with Python and Keras and utilizes audio feature extraction to classify music into different genres.
+This project implements a music genre classification system using a neural network. The system is built with PyTorch and Keras and utilizes audio feature extraction to classify music into different genres.
 
 ## Project Structure
 
