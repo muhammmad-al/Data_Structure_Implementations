@@ -27,8 +27,10 @@ python cryptocurrency.py <command> [arguments]
 ### Examples
 
 - Generate a new wallet:
-  ```bash
-  python cryptocurrency.py generate my_wallet.txt
+
+```bash
+python cryptocurrency.py generate my_wallet.txt
+```
 
 - Fund a wallet:
 
