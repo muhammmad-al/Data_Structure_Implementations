@@ -23,3 +23,9 @@ To use the script, run the following command with the desired command and argume
 
 ```bash
 python cryptocurrency.py <command> [arguments]
+
+### Examples
+
+- Generate a new wallet:
+  ```bash
+  python cryptocurrency.py generate my_wallet.txt
