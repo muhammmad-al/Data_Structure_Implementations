@@ -1,20 +1,12 @@
-# Welcome to your Expo app 👋
+# Muhammad's Tech Portfolio 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to my tech portfolio! This repository showcases six diverse projects that demonstrate my expertise in machine learning, blockchain, cryptocurrency, decentralized applications, and full-stack development. Below, you'll find direct demo links and descriptions for each project.
 
-## Get started
+## Project Demos
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
+1. Full-Stack Decentralized NFT Auction Platform: Link - https://nameless-castle-94869-6cdd3e0d35fe.herokuapp.com/
+   
+2. Music Distribution Mobile Application: Video Demo - https://www.youtube.com/watch?v=yz3bGXdSrzQ&feature=youtu.be 
 
 In the output, you'll find options to open the app in a
 
