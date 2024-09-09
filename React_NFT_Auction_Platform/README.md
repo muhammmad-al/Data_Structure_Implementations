@@ -16,3 +16,7 @@ This is a **React-based NFT Auction Platform** built using JavaScript. The platf
 - **Blockchain**: Sepolia Testnet
 - **Web3.js**: For interacting with the Ethereum blockchain and MetaMask
 - **Deployment**: Heroku
+
+## Demo
+You can view the deployed version of the project on Heroku using the link below:
+https://nameless-castle-94869-6cdd3e0d35fe.herokuapp.com
