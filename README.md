@@ -10,3 +10,7 @@ Welcome to my tech portfolio! This repository showcases six diverse projects tha
 
 ## Featured Projects
 
+1. Music Genre Classification
+Tech Stack: PyTorch, Keras, Librosa, Google Colab
+Description: A machine learning project that classifies music genres using neural networks. Achieved 75% accuracy, surpassing the human benchmark of 70%.
+Skills Demonstrated: Machine learning, neural networks, audio feature extraction.
