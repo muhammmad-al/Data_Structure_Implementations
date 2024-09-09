@@ -1,0 +1,27 @@
+{
+    "pre_heading": "Exclusive Assets",
+    "heading": "Explore Locally",
+    "btn_1": "View All Local",
+    "btn_2": "Load More Local",
+    "exploreData": [
+        {
+            "id": "1",
+            "img": "/img/auction_1.jpg",
+            "title": "EIGHT (Local)",
+            "owner": "Local Richard",
+            "price": "1.5 ETH",
+            "count": "1 of 1",
+            "btnText": "Place a Local Bid"
+        },
+        {
+            "id": "2",
+            "img": "/img/auction_2.jpg",
+            "title": "Domain Names (Local)",
+            "owner": "Local John",
+            "price": "2.7 ETH",
+            "count": "1 of 1",
+            "btnText": "Place a Local Bid"
+        }
+        
+    ]
+}
