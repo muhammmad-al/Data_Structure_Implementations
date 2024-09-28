@@ -1,12 +1,4 @@
-# Muhammad's Tech Portfolio 👋
-
-Welcome to my tech portfolio! This repository showcases six diverse projects that demonstrate my expertise in machine learning, blockchain, cryptocurrency, decentralized applications, and full-stack development. Below, you'll find direct demo links and descriptions for each project.
-
-## Project Demos 🚀
-
-1. Full-Stack Decentralized NFT Auction Platform: Link - https://nameless-castle-94869-6cdd3e0d35fe.herokuapp.com/
-   
-2. Music Distribution Mobile Application: Video Demo - https://www.youtube.com/watch?v=yz3bGXdSrzQ&feature=youtu.be 
+This repository showcases four diverse projects that demonstrate foundational knowledge in machine learning, blockchain technology, smart contract development, and general programming proficiency.
 
 ## Featured Projects
 
@@ -26,15 +18,6 @@ Welcome to my tech portfolio! This repository showcases six diverse projects tha
    - **Tech Stack**: Solidity, Ethereum, ERC20, Web3.js
    - **Description**: A decentralized exchange (DEX) smart contract that enables users to add liquidity, exchange tokens, and handle fees on the Ethereum blockchain.
    - **Skills Demonstrated**: Smart contracts, Solidity, decentralized finance (DeFi).
-5. **Full-Stack Decentralized NFT Auction Platform**
-   - **Tech Stack**: React, Javascript, Web3.js, Sepolia Testnet, Heroku
-   - **Description**: A full-stack decentralized auction platform allowing users to bid on NFTs. Smart contracts deployed on the Sepolia testnet.
-   - **Skills Demonstrated**: Frontend development, blockchain integration, Web3.js, MetaMask.
-6. **Music Distribution Mobile Application**
-   - **Tech Stack**: React Native, Firebase, Typescript
-   - **Description**: A mobile app that leverages decentralized systems for royalty management and AI to promote underground artists.
-   - **Skills Demonstrated**: Mobile development, decentralized technologies, AI integration.
-  
 
 
 
