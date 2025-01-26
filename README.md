@@ -1,11 +1,11 @@
-This repository showcases three projects from CS4501: Special Topics in Computer Science (Cryptocurrency and Blockchain Technology)
+This repository showcases three academic projects I worked on at The University of Virginia
 
 ## Featured Projects
 
-1. **Bitcoin Blockchain Parser**
-   - **Tech Stack**: Python, SHA-256, Data Parsing
-   - **Description**: A script that reads and interprets Bitcoin blockchain data, extracting transaction details and block information.
-   - **Skills Demonstrated**: Blockchain, cryptography, data processing.
+1. **Django-Based Full Stack Web Application: Honor Code Tracker**
+   - **Tech Stack**: HTML/CSS, Bootstrap, Django, PostgreSQL, Github Actions, Amazon S3, Google OAuth
+   - **Description**: Django-based web application that allows students and faculty to manage honor code violation reports.
+   - **Skills Demonstrated**: Cloud storage, CI/CD, automated testing, full-stack development
 2. **Custom Cryptocurrency Implementation**
    - **Tech Stack**: Python, RSA Cryptography
    - **Description**: A Python-based cryptocurrency management system that includes wallet generation, transaction verification, and balance tracking.
